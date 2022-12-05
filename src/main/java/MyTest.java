@@ -31,7 +31,7 @@ public class MyTest extends HttpServlet {
         objectUser.setName("sdd");
         String s = JSON.toJSONString(objectUser);
         System.out.println(s);
-
+    System.out.println("修改过的");
     }
 
 
