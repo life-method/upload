@@ -32,6 +32,9 @@ public class MyTest extends HttpServlet {
         String s = JSON.toJSONString(objectUser);
         System.out.println(s);
     System.out.println("修改过的");
+            System.out.println("修改过的 222222222");
+
+        
     }
 
 
